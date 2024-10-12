@@ -514,4 +514,4 @@ In der DB-VM haben wir eine filmverwaltung.sql DB erstellt:
 
 
 
-Der Code ist inklusive der Beschreibung in der films.py hinterlegt.
+Der Code ist inklusive der Beschreibung in der Filmverwaltungsystem.py hinterlegt.
